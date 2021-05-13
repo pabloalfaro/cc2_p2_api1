@@ -1,0 +1,8 @@
+Flask
+pmdarima
+pandas
+pytest
+pymongo
+requests
+pylint
+gunicorn
